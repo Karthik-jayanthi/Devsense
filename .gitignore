@@ -5,3 +5,6 @@
    *.pyc
    .next/
 apps/web/AGENTS.md
+
+venv/
+apps/api/venv/
